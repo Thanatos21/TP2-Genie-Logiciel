@@ -1,5 +1,0 @@
-- Ecrire un programme qui produit un tableau à N valeurs aléatoires
-
-- Utiliser plusieurs acteurs pour calculer la moyenne de ces valeurs
-
-- Envoyer les résultats partiels à un autre acteur, qui calculera la moyenne finale!

@@ -13,6 +13,7 @@ class Calculator1(taille: Integer, tab: Array[Integer], avenger: Actor) extends 
     }
     println("Calculator1 : " + moy);
     
+    // Passing the variable moy to the actor avenger
     avenger ! (Calculator1,moy);
     exit();
   }

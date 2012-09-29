@@ -6,6 +6,7 @@ case object Calculator1;
 case object Calculator2;
 
 // I guess the real name should be Averager... Whatever!
+// Nothing difficult here!
 class Avenger(taille: Integer, tab: Array[Integer]) extends Actor {
   def act() {
     var res: Double = 0;

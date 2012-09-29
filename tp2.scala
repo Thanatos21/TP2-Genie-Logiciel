@@ -16,7 +16,7 @@ object Tp2 {
       tab(i) = r.nextInt(100);
     }
     
-    // Displays the average of each half of the table for testing purpose
+    // Displays the sum of each half of the table for testing purpose
     println("-----------------------------------------------------------");
     
     var test: Integer = 0;
